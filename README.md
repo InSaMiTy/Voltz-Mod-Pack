@@ -1,7 +1,7 @@
 Voltz-Mod-Pack
 ==============
-
-VERSION: 1.0.6.
+Minecraft Version: 1.4.7
+VERSION: 1.0.8.
 
 The Voltz Mod Pack is a mod pack created for both the FTB and the Technic launcher.
 
@@ -49,6 +49,10 @@ Darkguardsman - Assembly Line, Steam Power, Liquid Mechanics
 Alex_hawks and Mattredsox - Electric Expansion
 
 Aidancbrady - Mekanism
+
+Cammygames - Blastcraft
+
+MachineMuse - Modular Powersuits
 
 CovertJaguar - Railcraft
 
