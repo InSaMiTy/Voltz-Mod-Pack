@@ -8,6 +8,9 @@ The Voltz Mod Pack is a mod pack created for both the FTB and the Technic launch
 ## Description
 The Voltz mod pack consists of various mods that uses the Universal Electricity API as well as some mods that are compatible with Universal Electricity. The pack consists of various tech mods that uses a standardized electricity system, brining technology and exciting possibilities into Minecraft.
 
+## Updateign Rules
+When you ask any team (FTB/Technic) to update please pm cammygames on the forums so he can kepp tack of al update request so if somethign happens he can see who did what.
+
 ## Permissions
 All mods in this pack have received either permission or is permitted by the mod's license.
 
