@@ -1,1 +1,1 @@
-java -Xms512M -Xmx1G -jar minecraft_server.jar
+java -Xms512M -Xmx1G -jar Voltz.jar
